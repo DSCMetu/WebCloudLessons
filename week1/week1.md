@@ -7,7 +7,7 @@ In the first week basic HTML structure will be introduced
 	1. Sign up to Github
 	2. Cloning example project
 	3. Practice
-	4. uploading project to github
+4. Discussion about websites
 
 ## HTML Basics
 HTML(Hypertext Markup Language) is a markup language. It defines how the conent will look.
@@ -80,5 +80,13 @@ images in HTML represents like this. src means source and alt means alternative 
 	<u> underline </u>
 <ins> underline </ins>
 
-### Comments in HTML
-	<!-- this is a comment -->
+### some useful elements
+commenting
+
+	<!-- this is a comment -->	
+a line break
+
+	<br>
+horizontal rule
+
+	<hr>
