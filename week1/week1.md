@@ -1,6 +1,11 @@
 # Week 1
 In the first week basic HTML structure will be introduced
-## Meeting outline
+## Table of contents
+- [Meeting outline](#outline)
+- [HTML Basics](#Basics)
+- [Meeting Objectives](#Objectives)
+
+## 1. Meeting outline <span name="outline"></span>
 1. Presentation: Welcome to Web/Cloud
 2. Examining basic HTML elements and their use
 3. Lab section
@@ -9,7 +14,7 @@ In the first week basic HTML structure will be introduced
 	3. Practice
 4. Discussion about websites
 
-## HTML Basics
+## 2. HTML Basics <span name="Basics"></span>
 HTML(Hypertext Markup Language) is a markup language. It defines how the conent will look.
 How HTML is doing this? With using elements.  
 	<p> This is a pharahraph </p>
@@ -90,3 +95,8 @@ a line break
 horizontal rule
 
 	<hr>
+	
+## 3. Meeting Objectives <span name="Objectives"></span> 
+For a full understanding of this week's meeting  
+1) You should observe the [HTML Basics](#Basics) on this document
+2) You should try to make a copy of [week1example.pdf](https://github.com/DSCMetu/WebCloudLessons/blob/main/week1/week1example.pdf)
