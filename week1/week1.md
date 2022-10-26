@@ -99,4 +99,6 @@ horizontal rule
 ## 3. Meeting Objectives <span name="Objectives"></span> 
 For a full understanding of this week's meeting  
 1) You should observe the [HTML Basics](#Basics) on this document
-2) You should try to make a copy of [week1example.pdf](https://github.com/DSCMetu/WebCloudLessons/blob/main/week1/week1example.pdf)
+2) You can check out the [webpage](https://github.com/DSCMetu/WebCloudLessons/blob/main/week1/meeting_code.html) we write in the meeting together
+3) You should try to make a copy of [week1example.pdf](https://github.com/DSCMetu/WebCloudLessons/blob/main/week1/week1example.pdf) using [main.html]() as a template
+4) Here is a made copy of [week1example](https://github.com/DSCMetu/WebCloudLessons/blob/main/week1/week1Example.html)
