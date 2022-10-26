@@ -1,7 +1,10 @@
 # Week
 In the second week we will start to learn how to use css.
 ##Meeting Prequerities
-HTML (review the [week1.md](https://github.com/DSCMetu/WebCloudLessons/blob/main/week1/week1.md))
+HTML (review the [week1.md](https://github.com/DSCMetu/WebCloudLessons/blob/main/week1/week1.md))  
+
+Table of contents
+
 ## Meeting outline
 1. 
 
@@ -46,15 +49,24 @@ There is various css features:
 	
 <span style="border-style:dashed;">text-text-text-text</span>
 For more border features check this page: [border](https://developer.mozilla.org/en-US/docs/Web/CSS/border) 
-- margin
+- margin  
 	margin-left: 10px;
-<span style="margin-left: 10px;">text-text-text-text</span>
+<span style="margin-left: 10px;">text-text-text-text</span>  
 
 	margin-right: 10px;
-<span style="margin-right: 10px;">text-text-text-text</span>
+<span style="margin-right: 10px;">text-text-text-text</span>  
 
 	margin-bottom: 10px;
-<span style="margin-bottom: 10px;">text-text-text-text</span>
+<span style="margin-bottom: 10px;">text-text-text-text</span>  
 
 	margin-top: 10px;
-<span style="margin-top: 10px;">text-text-text-text</span>
+<span style="margin-top: 10px;">text-text-text-text</span>  
+
+
+## Further Reading
+- [Styling Texts and Fonts](https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Fundamentals#fonts)
+- [Centering in CSS](https://css-tricks.com/centering-css-complete-guide/)
+- [Styling Lists](https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Styling_lists)
+- [Styling Links](https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Styling_links)
+- [Google Fonts (text)](https://developers.google.com/fonts/docs/getting_started)
+- [Google Fonts (video)](https://www.youtube.com/watch?v=9ksLij2oMe4)
