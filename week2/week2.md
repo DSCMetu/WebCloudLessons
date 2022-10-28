@@ -13,6 +13,7 @@ Table of contents
 	- [Css Features](#css-features)
 		- [Color](#color)
 		- [Fonts](#fonts)
+	- [class and id](#class-and-id)
 	- [Further Reading](#further-reading)
   
 ## Meeting outline
@@ -87,7 +88,21 @@ Example code:
 
 For more information about borders check this page: [border](https://developer.mozilla.org/en-US/docs/Web/CSS/border)
 
+## class and id
+These features are specifiers. Basically when you use one of those for an tag, you name the tag. For example:  
 
+		<!--In html-->
+		<p class="Team1">Text</p>
+
+		/*In css*/
+		.Team1{
+			font-family:monaco;
+		}
+With this example you just changed the text which have Team1 class. Not all the `<p>` elements.  
+
+**What is the difference between class and id?**
+
+More than one tag can have same class but id is unique for tags. Not more than one tag can have the same id.
 
 ## Further Reading
 - [Styling Texts and Fonts](https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Fundamentals#fonts)
