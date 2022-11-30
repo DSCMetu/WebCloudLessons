@@ -1,0 +1,14 @@
+body{
+    background-color: #400D51;
+    color: #31E1F7;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 4rem;
+    text-align: center;
+}
+.button{
+    display: inline;
+    margin: 1rem;
+    background-color: #FF7000;
+    border-radius: 10px;
+    cursor: pointer;
+}
